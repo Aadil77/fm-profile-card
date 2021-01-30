@@ -5,6 +5,19 @@
 	margin: 0;
 }
 
+.attribution {
+	position: fixed;
+	bottom: 0;
+	font-size: 11px;
+	text-align: center; 
+	z-index: 6;
+
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+
 body{
 	background-color: hsl(185, 75%, 39%);
 	font-family: "Kumbh Sans", sans-serif;
